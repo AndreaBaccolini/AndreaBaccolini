@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 My bame is Andrea and i'm a UI / UX designer and Worpress developer in Padua, Italy.<br>
 Visit my site for more info: www.andreabaccolini.it
+![Profile views](https://gpvc.arturio.dev/[AndreaBaccolini])
