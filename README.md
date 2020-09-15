@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My bame is Andrea and i'm a UI / UX designer and Worpress developer in Padua, Italy.<br>
+My name is Andrea and i'm a UI / UX designer and Worpress developer in Padua, Italy.<br>
 Visit my site for more info: www.andreabaccolini.it
