@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Andrea and i'm a UI / UX designer and Worpress developer in Padua, Italy.<br>
 Visit my site for more info: www.andreabaccolini.it
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AndreaBaccolini
+=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
