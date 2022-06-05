@@ -20,7 +20,7 @@ Visit my site for more info: www.andreabaccolini.it
 
 My GitHub stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBaccolini&count_private=true&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBaccolini&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
