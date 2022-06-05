@@ -18,6 +18,12 @@ My name is Andrea and i'm a UI / UX designer and Worpress developer in Padua, It
 Visit my site for more info: www.andreabaccolini.it
 
 
+My GitHub stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBaccolini)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+My Github Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
