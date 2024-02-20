@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name is Andrea and i'm a UI / UX designer and Worpress developer in Padua, Italy.<br>
 Visit my site for more info: www.andreabaccolini.it
 <br/><br/>
-![AndreaBaccolini's Stats](http://github-readme-stats.vercel.app/api?username=AndreaBaccolini&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![AndreaBaccolini's Stats](https://github-readme-stats.vercel.app/api?username=AndreaBaccolini&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <br/><br/>
 <strong>My Github Trophies:</strong>
 
