@@ -18,7 +18,6 @@ My name is Andrea and i'm a UI / UX designer and Worpress developer in Padua, It
 Visit my site for more info: www.andreabaccolini.it
 <br/><br/>
 ![AndreaBaccolini's Stats](https://github-readme-stats.vercel.app/api?username=AndreaBaccolini&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=AndreaBaccolini&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 <br/><br/>
 <strong>My Github Trophies:</strong>
 
