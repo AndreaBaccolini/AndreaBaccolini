@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Andrea and i'm a UI / UX designer and Worpress developer in Padua, Italy.<br>
-Visit my site for more info: www.andreabaccolini.it<br><br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AndreaBaccolini&theme=tokyonight)](https://git.io/streak-stats)
-<br/><br/>
-<strong>My Github Trophies:</strong>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AndreaBaccolini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Visit my site for more info: www.andreabaccolini.it
