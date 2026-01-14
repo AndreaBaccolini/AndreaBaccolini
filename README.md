@@ -21,3 +21,5 @@ Visit my site for more info: www.andreabaccolini.it<br><br>
 <strong>My Github Trophies:</strong>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndreaBaccolini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+https://github-profile-trophy-liard-delta.vercel.app/?AndreaBaccolini=AndreaBaccolini
