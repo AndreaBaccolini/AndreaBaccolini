@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 My name is Andrea and i'm a UI / UX designer and Worpress developer in Padua, Italy.<br>
 Visit my site for more info: www.andreabaccolini.it
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
